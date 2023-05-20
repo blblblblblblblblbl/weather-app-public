@@ -47,7 +47,7 @@ This android application works with weather api
 
 
 
-## Screenshots
+## Preview
 
 <img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/main.gif" width = 240><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/divider.png" width = 10 height = 534><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/main_location.gif" width = 240><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/divider.png" width = 10 height = 534><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/main_weather.gif" width = 240>
 
