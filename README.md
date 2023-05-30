@@ -32,8 +32,6 @@ https://play.google.com/store/apps/details?id=blblblbl.simplelife.weather
 - multi-module app
 - Coroutines 
 - Flow
-- OOP
-- SOLID
 - Retrofit2
 - OkHttpClient
 - Paging library3
