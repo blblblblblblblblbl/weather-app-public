@@ -4,7 +4,7 @@
 
 This android application works with weather api
 
-#Google play
+# Google play
 https://play.google.com/store/apps/details?id=blblblbl.simplelife.weather
 
 ## Authors
