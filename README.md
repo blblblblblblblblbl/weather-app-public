@@ -53,6 +53,6 @@ https://play.google.com/store/apps/details?id=blblblbl.simplelife.weather
 <img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/cities.gif" width = 240><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/divider.png" width = 10 height = 534><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/settings_theme.gif" width = 240><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/divider.png" width = 10 height = 534><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/settings_weather.gif" width = 240>
 
 
-<img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/widget.gif" width = 240>
+<img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/widget.gif" width = 240><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/divider.png" width = 10 height = 534><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/main_autocomplete.gif" width = 240><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/divider.png" width = 10 height = 534><img src="https://github.com/blblblblblblblblbl/weather-app-public/blob/main/gifs/error_ui.gif" width = 240>
 
 
