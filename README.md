@@ -16,11 +16,13 @@ https://play.google.com/store/apps/details?id=blblblbl.simplelife.weather
 
 - search by name
 - search by location
+- autocomplete
 - last search
 - favourite cities list
 - detailed info
 - widgets on home screen
 - resizable widget
+- app configuration(theme,temperature units, widget update time)
 - auto update for widget
 
 
@@ -43,6 +45,7 @@ https://play.google.com/store/apps/details?id=blblblbl.simplelife.weather
 - Room
 - Hilt
 - Hilt Worker
+- Sandwich for api errors handling
 
 
 
